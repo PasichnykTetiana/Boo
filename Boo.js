@@ -17,4 +17,16 @@ function booWho(bool) {
     }
 }
 booWho(1);
+booWho(false);
+// function booWho(bool) {
+//
+//     if(typeof(bool)==="boolean"){
+//         console.log(typeof(bool)==="boolean")
+//         return true;
+//     }
+//     else{
+//         console.log('2')
+//         return false;
+//     }
+// }
 // booWho(false);
